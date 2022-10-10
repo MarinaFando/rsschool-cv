@@ -21,3 +21,21 @@
 > * Express
 > * MongoDB
 > * Tailwind
+
+### Experience
+> - Pair programming, work in team
+> - Fixed responsiveness with _Tailwind_
+> - Build responsive design
+> - Build microfrontend with _React_
+> - Build RESTful API's with _Express_
+
+### Education
+> ***Belarusian National Technical University***,<br>
+Bachelor of Science, Management,<br>
+Minsk, Belarus
+
+### English
+> Intermediate(**B1**)
+
+### Russian
+> Native
