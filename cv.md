@@ -6,3 +6,18 @@
 > - Łódź, 90-528, Poland
 > - [+48571078989](tel:48571078989)
 > - [marinafando@gmail.com](mailto:marinafando@gmail.com)
+
+### Professional Summary
+> Participated in all stages of the dynamic web project development cycle.<br/>Keeping up with the trends of development, experimenting wit new frameworks.
+
+
+### Skills
+
+> * JavaScript
+> * HTML
+> * CSS
+> * React
+> * Redux
+> * Express
+> * MongoDB
+> * Tailwind
