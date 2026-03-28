@@ -7,3 +7,34 @@
 > - [+4857107----](tel:4857107----)
 > - [marinafando@gmail.com](mailto:marinafando@gmail.com)
 
+### Professional Summary
+> Participated in all stages of the dynamic web project development cycle.<br/>Keeping up with the trends of development, experimenting wit new frameworks.
+
+
+### Skills
+
+> * JavaScript
+> * HTML
+> * CSS
+> * React
+> * Redux
+> * Express
+> * MongoDB
+> * Tailwind
+
+### Code Example
+
+>  N-th Fibonacci from Codewars
+> ```
+> function nthFibo(n) {
+>   let a = 0
+>   let b = 1
+>  for(let i = 1; i < n; i +=1) {
+>    let tempB = b
+>    b = a + b
+>    a = tempB
+>  }
+>  return a
+> }
+> ```
+
