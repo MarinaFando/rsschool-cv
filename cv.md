@@ -51,6 +51,6 @@ Bachelor of Science, Management,<br>
 Minsk, Belarus
 
 ### Languages
-> Russian (**native**)
-> English(**B2**)
-> Polish(**B1**)
+> - Russian (**native**)
+> - English(**B2**)
+> - Polish(**B1**)
